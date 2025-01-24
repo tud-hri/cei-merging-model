@@ -1,0 +1,1 @@
+This is a place-holder repository for the code accompanying the paper "A Communication-Based Interaction Model for Highway Merging". We are currently in the process of preparing the code for uploading. The code will be uploaded in the first half of Februari 2025.
